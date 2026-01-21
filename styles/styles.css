@@ -1,5 +1,4 @@
-ul {
-    list-style-type: none;
-    margin: 0.000001px;
-    padding: 0;
+#headerMount p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
 }
